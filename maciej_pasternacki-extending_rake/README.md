@@ -19,7 +19,7 @@ code can be tested.
 
 Freelance DevOps Guy.
 
-Starting as a freelance developer in 2009, I soon gravitated towards
+Starting as a freelance developer in 2008, I soon gravitated towards
 managing Web infrastructure, continuous integration, build systems,
 etc. With decent background in both administration and programming, I
 develop agile infrastructure, trying to replace as much of shell
